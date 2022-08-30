@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pranathi Alluri</title>
+    <link>https://pranathi-alluri.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Pranathi Alluri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://pranathi-alluri.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Co-op&#39;d</title>
+      <link>https://pranathi-alluri.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranathi-alluri.github.io/portfolio/post/project-1/</guid>
+      <description>Internships are highly sought out by a majority of college students, but the process of finding companies that align with one&amp;rsquo;s values and interests is far from easy. This is especially true for Northeastern students, where co-ops and internships are integrated into the curriculum, and a defining part of being a husky.
+Hoping to make this process less stressful, we created the &amp;ldquo;CoOp&amp;rsquo;d&amp;rdquo; visualization tool using data collected through the accompanying Coop&amp;rsquo;d app, which is secure to Northeastern students and includes rating, salary, location, and drug information about various companies from past student experiences.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Hungry Huskies</title>
+      <link>https://pranathi-alluri.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranathi-alluri.github.io/portfolio/post/project-2/</guid>
+      <description>As Northeastern students, finding a place to eat seems to be a never-ending challenge. This doesn&amp;rsquo;t need to be the case! Whether it be an affordable quick bite, a place to hang out with friends on Friday Nights, or a restaurant that accommodates your dietary restrictions, Hungry Huskies got you covered.
+Hungry Huskies was created to easily access restaurants within a 0.6-mile radius (walking distance) of the Boston Campus, along with information regarding their ratings, price range, social media, dietary restrictions, cuisine type, whether or not they accept dining dollars, and more.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Animator</title>
+      <link>https://pranathi-alluri.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranathi-alluri.github.io/portfolio/post/project-3/</guid>
+      <description>The simple animator was developed in Java using MVC architecture to create animations from shapes. To effectively accomplish this, our model uses lists of keyframes to represent the movement of each shape during the duration of the animation, done using linear interpolation. This results in O(number of shapes + number of motions) memory needed to store a movie, making it the most efficient design.
+Furthermore, working through the design process, thoroughly creating interfaces, abstract classes, and factory methods, prevented duplicate code and mutation while ensuring loose coupling between the model, view, and controller.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Freecell</title>
+      <link>https://pranathi-alluri.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranathi-alluri.github.io/portfolio/post/project-4/</guid>
+      <description>Implementation of the solitaire-style card game &amp;ldquo;Freecell.&amp;rdquo; Created in Java using an MVC design pattern, where the controller is publically used to run the game and take in any initial input, oblivious to the implementation details of either model. When the game begins, the game state is displayed as a string in a concise format, with the message &amp;ldquo;Game Over&amp;rdquo; returned when the player has won. To play the game and view the full code visit the Github Page </description>
+    </item>
+    
+  </channel>
+</rss>
